@@ -1,0 +1,9 @@
+{
+	"name": "de_serializier",
+	"authors": [
+		"Richard Andrew Cattermole"
+	],
+	"description": "A serializer, inspired by Orange. But with more templates.",
+	"copyright": "Copyright © 2017, rikki",
+	"license": "Boost"
+}
